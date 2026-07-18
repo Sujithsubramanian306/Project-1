@@ -1,2 +1,2 @@
 print ('hello sujith')
-print ('hello Hari Prasath')
+print ('hello Prasath')
